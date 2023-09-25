@@ -1,0 +1,6 @@
+package com.nareshtechhub;
+
+public class Awesomeparty {
+	
+	System.out.println("weather is cool"));
+}

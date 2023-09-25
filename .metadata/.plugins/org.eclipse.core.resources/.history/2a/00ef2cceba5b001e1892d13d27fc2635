@@ -1,0 +1,18 @@
+package com.nareshtechhub;
+
+public class Environment {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello Welcome");
+		
+		new Environment().Add();
+
+	}
+
+	private static void Add() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
